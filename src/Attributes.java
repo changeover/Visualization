@@ -13,6 +13,6 @@ public class Attributes {
                 }
             }
         }
-        return value;
+        return values;
     }
 }
