@@ -15,7 +15,4 @@ public class Attributes {
         }
         return values;
     }
-    public static double[] GeneratePoints(double[] pointValue, double [] takenPoints){
-
-    }
 }
